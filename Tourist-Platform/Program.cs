@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Tourist_Platform.Models;
+
 namespace Tourist_Platform
 {
     public class Program
@@ -8,6 +11,8 @@ namespace Tourist_Platform
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<TouristDbContext>
+                (p => p.UseSqlServer(builder.Configuration.GetConnectionString("mycon")));
 
             var app = builder.Build();
 
