@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tourist_Platform
+build_property.RootNamespace = Tourist_Platform
+build_property.ProjectDir = D:\STUDY IT\FPT Aptech\Sem3\PJThu\Tourist-Platform\Tourist-Platform\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\STUDY IT\FPT Aptech\Sem3\PJThu\Tourist-Platform\Tourist-Platform
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/AdminLogics/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dpY3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/AdminLogics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dpY3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/AdminLogics/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dpY3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/AdminLogics/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dpY3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/AdminLogics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dpY3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/Logins/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/UserAccounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/UserAccounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/UserAccounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/UserAccounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/UserAccounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY IT/FPT Aptech/Sem3/PJThu/Tourist-Platform/Tourist-Platform/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-po1ii5a6h4

@@ -1,0 +1,29 @@
+﻿@model Tourist_Platform.Models.AdminLogic
+@{
+    TempData["Title"] = "Login Page";
+}
+<a asp-action="Create">Register</a>
+<div>
+    <h2>Login Page</h2>
+    <h3 style="color:red;">@ViewBag.msg</h3>
+</div>
+<div>
+    @using (Html.BeginForm("Login", "Logins"))
+    {
+        <div>
+            <label>Enter Account No</label>
+            <input type="text" name="accNo" />
+        </div>
+        <br />
+        <br />
+        <div>
+            <label>Enter Pin Code</label>
+            <input type="password" name="pinCode" />
+        </div>
+        <br />
+        <br />
+        <div>
+            <input type="submit" value="Sign in" class="btn btn-primary" />
+        </div>
+    }
+</div>
